@@ -4,3 +4,6 @@
 
 [core]
 	autocrlf = true
+
+[alias]
+	amend = commit --amend --no-edit
