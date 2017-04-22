@@ -1,0 +1,26 @@
+{  
+   "editor.fontSize": 14.5,
+   "explorer.openEditors.visible": 0,
+   "workbench.statusBar.visible": false,
+   "workbench.activityBar.visible": false,
+   "editor.tabSize": 2,
+   "files.autoSave": "off",
+   "window.zoomLevel": 0,
+   "workbench.iconTheme": "vs-seti",
+   "editor.minimap.enabled": true,
+   "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+   "markdown.styles": [  
+      "https://gitcdn.xyz/repo/aui/vs-code-github-markdown-theme/master/index.css"
+   ],
+   "workbench.colorTheme": "Monokai",
+   "workbench.experimental.colorCustomizations": {  
+      "statusBarBackground": "#222222",
+      "panelBackground": "#222222",
+      "sideBarBackground": "#222222",
+      "activeTabBackground": "#333333",
+      "editorCursor": "#ff2d43",
+      "editorSelection": "#2654de85"
+   },
+   "editor.codeLens": false,
+   "omnisharp.autoStart": false
+}
