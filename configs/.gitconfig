@@ -1,0 +1,5 @@
+[user]
+	name = Mark Tiedemann
+	email = www.marktiedemann@gmail.com
+[core]
+	autocrlf = true
