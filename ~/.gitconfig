@@ -7,3 +7,5 @@
 
 [alias]
 	amend = commit --amend --no-edit
+	# diff head with prev commit
+	diff-- = diff @~..@
