@@ -23,8 +23,8 @@
     "editorSelection": "#2654de85"
   },
   "editor.codeLens": false,
-  "omnisharp.autoStart": false,
   "typescript.referencesCodeLens.enabled": true,
   "typescript.implementationsCodeLens.enabled": true,
-  "workbench.startupEditor": "newUntitledFile"
+  "workbench.startupEditor": "newUntitledFile",
+  "extensions.ignoreRecommendations": true
 }
