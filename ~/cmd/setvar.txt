@@ -1,0 +1,20 @@
+setvar v0.1.0
+
+Unfortunately, `cmd` doesn't have an easy-to-use,
+built-in way of assigning the output of a command
+to an environment variable.
+
+`setvar` fixes that:
+
+  Usage:
+  
+    $ setvar <var_name> <command> [--echo]
+
+  Examples:
+
+    $ setvar me whoami
+    $ echo %me%
+    c-3po\mark
+
+    $ setvar me whoami --echo
+    c-3po\mark

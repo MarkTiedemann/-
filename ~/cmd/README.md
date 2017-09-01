@@ -41,3 +41,6 @@
 
 ## `ulist <task>`
 > List all tasks which match the specified name
+
+## `setvar <var_name> <command> [--echo]`
+> Set command output to environment variable
