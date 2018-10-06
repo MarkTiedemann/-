@@ -23,15 +23,8 @@
 λ cb --
 /a
 
-/a/b/c/d
-λ cb ---
-/a
-
 ...
 ```
-
-## `cl`
-> Clear screen
 
 ## `ll`
 > List (almost all) files and directories in a single column with colors
@@ -41,6 +34,3 @@
 
 ## `ulist <task>`
 > List all tasks which match the specified name
-
-## `setvar <var_name> <command> [--echo]`
-> Set command output to environment variable
