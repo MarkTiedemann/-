@@ -12,7 +12,7 @@
   tagcommit = rev-list -n 1
 
 [credential]
-	helper = store
+	helper = manager
 
 [pack]
   threads = 4
